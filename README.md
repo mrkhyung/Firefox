@@ -1,6 +1,6 @@
-**Installation Guide**
+# **Installation Guide**
 
-**To install this custom CSS theme in Firefox, follow these steps:**
+## **To install this custom CSS theme in Firefox, follow these steps:**
 
  Enable Custom CSS in Firefox
         Type <sub>about:config</sub> in your URL bar and press Enter.
